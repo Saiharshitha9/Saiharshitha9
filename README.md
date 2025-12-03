@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sai Harshitha 👋
 
-<!--
-**Saiharshitha9/Saiharshitha9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Artificial Intelligence & Machine Learning  
+🏫 Mohan Babu University, Tirupati  
+💼 Aspiring Machine Learning Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Current Skills
+- Python (Basics)
+- Problem Solving
+- Git & GitHub (Beginner)
+- Fundamentals of Machine Learning (Learning Phase)
+
+---
+
+## 📚 Currently Learning
+- Python for Data Science
+- Machine Learning Algorithms
+- Data Structures & Algorithms
+- Predictive Analytics
+- AI for Robotics
+
+---
+
+## 🎯 Career Goal
+To become a skilled Machine Learning Engineer and secure a core role in the AI/ML field.
+
+---
+
+## 📂 Projects
+🚧 Currently working on my first ML and Python projects.  
+All projects will be uploaded here as I complete them.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/Saiharshitha9  
+- Email: saiharshithanallagatla@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nallagatla-saiharshitha-9ab425352/
+
+---
+
+⭐ This profile reflects my real learning journey in AI & ML.
