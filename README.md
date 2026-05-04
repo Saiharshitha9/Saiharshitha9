@@ -1,9 +1,7 @@
 # Hi, I'm Sai Harshitha 👋
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning 
-
 🏫 Mohan Babu University, Tirupati
-
 💼 Aspiring Software Development Engineer (Python)
 
 ---
