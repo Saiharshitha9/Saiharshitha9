@@ -1,44 +1,59 @@
 # Hi, I'm Sai Harshitha 👋
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning  
-🏫 Mohan Babu University, Tirupati  
-💼 Aspiring Machine Learning Engineer  
+🎓 B.Tech in Artificial Intelligence & Machine Learning
+🏫 Mohan Babu University, Tirupati
+💼 Aspiring Software Development Engineer (Python)
 
 ---
 
 ## 🔧 Current Skills
-- Python (Basics)
-- Problem Solving
-- Git & GitHub (Beginner)
-- Fundamentals of Machine Learning (Learning Phase)
+
+* Python (Core + OOP)
+* Data Structures & Algorithms (Learning & Practicing)
+* Problem Solving
+* Git & GitHub
 
 ---
 
 ## 📚 Currently Learning
-- Python for Data Science
-- Machine Learning Algorithms
-- Data Structures & Algorithms
-- Predictive Analytics
-- AI for Robotics
+
+* Data Structures & Algorithms (DSA)
+* Backend Development with Python (Flask/Django)
+* Object-Oriented Programming (Advanced)
 
 ---
 
 ## 🎯 Career Goal
-To become a skilled Machine Learning Engineer and secure a core role in the AI/ML field.
+
+To become a skilled Software Development Engineer (SDE) specializing in Python and build scalable, real-world applications.
 
 ---
 
 ## 📂 Projects
-🚧 Currently working on my first ML and Python projects.  
-All projects will be uploaded here as I complete them.
+
+🚧 Currently building Python and Web Development projects.
+
+* Beginner Python Projects (CLI-based)
+* Upcoming: Web apps using Flask/Django
+
+(All projects will be uploaded and documented here.)
+
+---
+
+## 📈 What I'm Doing Daily
+
+* Solving DSA problems
+* Practicing Python coding
+* Building projects step-by-step
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/Saiharshitha9  
-- Email: saiharshithanallagatla@gmail.com
-- LinkedIn: https://www.linkedin.com/in/nallagatla-saiharshitha-9ab425352/
+
+* GitHub: https://github.com/Saiharshitha9
+* Email: [saiharshithanallagatla@gmail.com](mailto:saiharshithanallagatla@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/nallagatla-saiharshitha-9ab425352/
 
 ---
 
-⭐ This profile reflects my real learning journey in AI & ML.
+⭐ This profile reflects my journey towards becoming a Python Software Developer.
