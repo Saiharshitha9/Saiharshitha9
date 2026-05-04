@@ -1,7 +1,9 @@
 # Hi, I'm Sai Harshitha 👋
 
-🎓 B.Tech in Artificial Intelligence & Machine Learning
+🎓 B.Tech in Artificial Intelligence & Machine Learning 
+
 🏫 Mohan Babu University, Tirupati
+
 💼 Aspiring Software Development Engineer (Python)
 
 ---
@@ -52,7 +54,7 @@ To become a skilled Software Development Engineer (SDE) specializing in Python a
 
 * GitHub: https://github.com/Saiharshitha9
 * Email: [saiharshithanallagatla@gmail.com](mailto:saiharshithanallagatla@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/nallagatla-saiharshitha-9ab425352/
+* LinkedIn: https://www.linkedin.com/in/nallagatla-saiharshitha/
 
 ---
 
