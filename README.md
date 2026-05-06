@@ -29,12 +29,10 @@ To become a skilled Software Development Engineer (SDE) specializing in Python a
 
 ## 📂 Projects
 
-🚧 Currently building Python and Web Development projects.
-
-* Beginner Python Projects (CLI-based)
-* Upcoming: Web apps using Flask/Django
-
-(All projects will be uploaded and documented here.)
+DoS/DDoS Attack Detection Simulator (Python)
+• Built a network traffic simulation tool to identify potential security threats in real-time.
+• Utilized defaultdict for optimized frequency tracking of request counts per IP address.
+• Designed an automated alerting system based on custom traffic threshold logic.
 
 ---
 
