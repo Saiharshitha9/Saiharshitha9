@@ -29,10 +29,10 @@ To become a skilled Software Development Engineer (SDE) specializing in Python a
 
 ## 📂 Projects
 
-DoS/DDoS Attack Detection Simulator (Python)
-• Built a network traffic simulation tool to identify potential security threats in real-time.
-• Utilized defaultdict for optimized frequency tracking of request counts per IP address.
-• Designed an automated alerting system based on custom traffic threshold logic.
+# DoS/DDoS Attack Detection Simulator (Python)
+* Built a network traffic simulation tool to identify potential security threats in real-time.
+* Utilized defaultdict for optimized frequency tracking of request counts per IP address.
+* Designed an automated alerting system based on custom traffic threshold logic.
 
 ---
 
